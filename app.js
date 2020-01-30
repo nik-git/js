@@ -1,1 +1,1 @@
-console.log("qqqqqqqqqqqqqqqqqqqqq");
+alert("qqqqqqqqqqqqqqqqqqqqq");
